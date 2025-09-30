@@ -1,0 +1,16 @@
+councilor_technocracy = {
+    leader_class = { scientist }
+    is_leader_possible = {
+        leader_class = scientist
+    }
+    civic = civic_technocracy
+    modifier = {
+        planet_researchers_upkeep_mult = -0.015
+        planet_physicists_physics_research_produces_add = 0.3
+        planet_engineers_engineering_research_produces_add = 0.3
+        planet_biologists_society_research_produces_add = 0.3
+    }
+    ai_hiring_weight = {
+        inline_script = councilor_leader_weights
+    }
+}
