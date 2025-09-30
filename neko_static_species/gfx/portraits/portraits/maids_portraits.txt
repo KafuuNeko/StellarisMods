@@ -1,0 +1,584 @@
+character = {
+    size = { x = 475 y = 380 }
+
+    entity = {
+        orientation = center_down
+        position = { x = 50 y = -20 }
+        scale = 24
+    }
+}
+
+portraits = {
+    portrait1 = {
+        texturefile = "gfx/models/portraits/maid/1.dds"
+    }
+    portrait10 = {
+        texturefile = "gfx/models/portraits/maid/10.dds"
+    }
+    portrait11 = {
+        texturefile = "gfx/models/portraits/maid/11.dds"
+    }
+    portrait12 = {
+        texturefile = "gfx/models/portraits/maid/12.dds"
+    }
+    portrait13 = {
+        texturefile = "gfx/models/portraits/maid/13.dds"
+    }
+    portrait14 = {
+        texturefile = "gfx/models/portraits/maid/14.dds"
+    }
+    portrait15 = {
+        texturefile = "gfx/models/portraits/maid/15.dds"
+    }
+    portrait16 = {
+        texturefile = "gfx/models/portraits/maid/16.dds"
+    }
+    portrait17 = {
+        texturefile = "gfx/models/portraits/maid/17.dds"
+    }
+    portrait18 = {
+        texturefile = "gfx/models/portraits/maid/18.dds"
+    }
+    portrait19 = {
+        texturefile = "gfx/models/portraits/maid/19.dds"
+    }
+    portrait2 = {
+        texturefile = "gfx/models/portraits/maid/2.dds"
+    }
+    portrait20 = {
+        texturefile = "gfx/models/portraits/maid/20.dds"
+    }
+    portrait21 = {
+        texturefile = "gfx/models/portraits/maid/21.dds"
+    }
+    portrait22 = {
+        texturefile = "gfx/models/portraits/maid/22.dds"
+    }
+    portrait23 = {
+        texturefile = "gfx/models/portraits/maid/23.dds"
+    }
+    portrait24 = {
+        texturefile = "gfx/models/portraits/maid/24.dds"
+    }
+    portrait25 = {
+        texturefile = "gfx/models/portraits/maid/25.dds"
+    }
+    portrait26 = {
+        texturefile = "gfx/models/portraits/maid/26.dds"
+    }
+    portrait27 = {
+        texturefile = "gfx/models/portraits/maid/27.dds"
+    }
+    portrait28 = {
+        texturefile = "gfx/models/portraits/maid/28.dds"
+    }
+    portrait29 = {
+        texturefile = "gfx/models/portraits/maid/29.dds"
+    }
+    portrait3 = {
+        texturefile = "gfx/models/portraits/maid/3.dds"
+    }
+    portrait30 = {
+        texturefile = "gfx/models/portraits/maid/30.dds"
+    }
+    portrait31 = {
+        texturefile = "gfx/models/portraits/maid/31.dds"
+    }
+    portrait32 = {
+        texturefile = "gfx/models/portraits/maid/32.dds"
+    }
+    portrait33 = {
+        texturefile = "gfx/models/portraits/maid/33.dds"
+    }
+    portrait34 = {
+        texturefile = "gfx/models/portraits/maid/34.dds"
+    }
+    portrait35 = {
+        texturefile = "gfx/models/portraits/maid/35.dds"
+    }
+    portrait36 = {
+        texturefile = "gfx/models/portraits/maid/36.dds"
+    }
+    portrait37 = {
+        texturefile = "gfx/models/portraits/maid/37.dds"
+    }
+    portrait38 = {
+        texturefile = "gfx/models/portraits/maid/38.dds"
+    }
+    portrait39 = {
+        texturefile = "gfx/models/portraits/maid/39.dds"
+    }
+    portrait4 = {
+        texturefile = "gfx/models/portraits/maid/4.dds"
+    }
+    portrait40 = {
+        texturefile = "gfx/models/portraits/maid/40.dds"
+    }
+    portrait41 = {
+        texturefile = "gfx/models/portraits/maid/41.dds"
+    }
+    portrait42 = {
+        texturefile = "gfx/models/portraits/maid/42.dds"
+    }
+    portrait43 = {
+        texturefile = "gfx/models/portraits/maid/43.dds"
+    }
+    portrait44 = {
+        texturefile = "gfx/models/portraits/maid/44.dds"
+    }
+    portrait45 = {
+        texturefile = "gfx/models/portraits/maid/45.dds"
+    }
+    portrait46 = {
+        texturefile = "gfx/models/portraits/maid/46.dds"
+    }
+    portrait47 = {
+        texturefile = "gfx/models/portraits/maid/47.dds"
+    }
+    portrait48 = {
+        texturefile = "gfx/models/portraits/maid/48.dds"
+    }
+    portrait49 = {
+        texturefile = "gfx/models/portraits/maid/49.dds"
+    }
+    portrait5 = {
+        texturefile = "gfx/models/portraits/maid/5.dds"
+    }
+    portrait50 = {
+        texturefile = "gfx/models/portraits/maid/50.dds"
+    }
+    portrait51 = {
+        texturefile = "gfx/models/portraits/maid/51.dds"
+    }
+    portrait52 = {
+        texturefile = "gfx/models/portraits/maid/52.dds"
+    }
+    portrait53 = {
+        texturefile = "gfx/models/portraits/maid/53.dds"
+    }
+    portrait54 = {
+        texturefile = "gfx/models/portraits/maid/54.dds"
+    }
+    portrait55 = {
+        texturefile = "gfx/models/portraits/maid/55.dds"
+    }
+    portrait56 = {
+        texturefile = "gfx/models/portraits/maid/56.dds"
+    }
+    portrait57 = {
+        texturefile = "gfx/models/portraits/maid/57.dds"
+    }
+    portrait58 = {
+        texturefile = "gfx/models/portraits/maid/58.dds"
+    }
+    portrait59 = {
+        texturefile = "gfx/models/portraits/maid/59.dds"
+    }
+    portrait6 = {
+        texturefile = "gfx/models/portraits/maid/6.dds"
+    }
+    portrait60 = {
+        texturefile = "gfx/models/portraits/maid/60.dds"
+    }
+    portrait61 = {
+        texturefile = "gfx/models/portraits/maid/61.dds"
+    }
+    portrait62 = {
+        texturefile = "gfx/models/portraits/maid/62.dds"
+    }
+    portrait63 = {
+        texturefile = "gfx/models/portraits/maid/63.dds"
+    }
+    portrait64 = {
+        texturefile = "gfx/models/portraits/maid/64.dds"
+    }
+    portrait65 = {
+        texturefile = "gfx/models/portraits/maid/65.dds"
+    }
+    portrait7 = {
+        texturefile = "gfx/models/portraits/maid/7.dds"
+    }
+    portrait8 = {
+        texturefile = "gfx/models/portraits/maid/8.dds"
+    }
+    portrait9 = {
+        texturefile = "gfx/models/portraits/maid/9.dds"
+    }
+}
+
+portrait_groups = {
+    maid = {
+        default = portrait1
+        game_setup = {
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+
+        #species scope
+        species = {
+            #generic portrait for a species
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+
+        #pop scope
+        pop = {
+            #for a specific pop
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+
+        #leader scope
+        leader = {
+            #scientists, generals, admirals, governor
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+        #leader scope
+        ruler = {
+            add = {
+                portraits = {
+                    portrait1
+                    portrait10
+                    portrait11
+                    portrait12
+                    portrait13
+                    portrait14
+                    portrait15
+                    portrait16
+                    portrait17
+                    portrait18
+                    portrait19
+                    portrait2
+                    portrait20
+                    portrait21
+                    portrait22
+                    portrait23
+                    portrait24
+                    portrait25
+                    portrait26
+                    portrait27
+                    portrait28
+                    portrait29
+                    portrait3
+                    portrait30
+                    portrait31
+                    portrait32
+                    portrait33
+                    portrait34
+                    portrait35
+                    portrait36
+                    portrait37
+                    portrait38
+                    portrait39
+                    portrait4
+                    portrait40
+                    portrait41
+                    portrait42
+                    portrait43
+                    portrait44
+                    portrait45
+                    portrait46
+                    portrait47
+                    portrait48
+                    portrait49
+                    portrait5
+                    portrait50
+                    portrait51
+                    portrait52
+                    portrait53
+                    portrait54
+                    portrait55
+                    portrait56
+                    portrait57
+                    portrait58
+                    portrait59
+                    portrait6
+                    portrait60
+                    portrait61
+                    portrait62
+                    portrait63
+                    portrait64
+                    portrait65
+                    portrait7
+                    portrait8
+                    portrait9
+                }
+            }
+
+        }
+    }
+}
+

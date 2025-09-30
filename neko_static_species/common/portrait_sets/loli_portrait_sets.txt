@@ -1,0 +1,11 @@
+lolis = {
+    species_class = HUM
+
+    portraits = { neko maid }
+}
+
+lolis_robot = {
+    species_class = MACHINE
+
+    portraits = { neko maid }
+}
